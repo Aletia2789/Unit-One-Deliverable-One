@@ -1,0 +1,26 @@
+C:\Users\banka\source\repos\Deliverables Lab 1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.exe
+C:\Users\banka\source\repos\Deliverables Lab 1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.deps.json
+C:\Users\banka\source\repos\Deliverables Lab 1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.runtimeconfig.json
+C:\Users\banka\source\repos\Deliverables Lab 1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.runtimeconfig.dev.json
+C:\Users\banka\source\repos\Deliverables Lab 1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.dll
+C:\Users\banka\source\repos\Deliverables Lab 1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.pdb
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.csprojAssemblyReference.cache
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.AssemblyInfoInputs.cache
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.AssemblyInfo.cs
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.dll
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.pdb
+C:\Users\banka\source\repos\Deliverables Lab 1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.genruntimeconfig.cache
+C:\Users\banka\Desktop\Unit1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.exe
+C:\Users\banka\Desktop\Unit1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.deps.json
+C:\Users\banka\Desktop\Unit1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.runtimeconfig.json
+C:\Users\banka\Desktop\Unit1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.runtimeconfig.dev.json
+C:\Users\banka\Desktop\Unit1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.dll
+C:\Users\banka\Desktop\Unit1\bin\Debug\netcoreapp3.1\Deliverables Lab 1.pdb
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.csprojAssemblyReference.cache
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.AssemblyInfoInputs.cache
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.AssemblyInfo.cs
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.dll
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.pdb
+C:\Users\banka\Desktop\Unit1\obj\Debug\netcoreapp3.1\Deliverables Lab 1.genruntimeconfig.cache
